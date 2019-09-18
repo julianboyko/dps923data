@@ -1,4 +1,4 @@
-[
+{
   "student": "Julian Boyko",
   "version": "1.0.0",
   "timestamp": "2019-09-13T11:39:12+0000",
@@ -9,4 +9,4 @@
     {"id": 25, "courseCode": "BTI425", "courseName": "Web Programming" },
     {"id": 26, "courseCode": "BTS430", "courseName": "Software Systems 2" }
     ]
-]
+}
